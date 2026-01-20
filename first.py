@@ -16,5 +16,6 @@ server = {
     "state" : "It is active"
 }
 
+print("hello")
 
 print(f"{server['website']}\n{server['port']}")
